@@ -1,5 +1,6 @@
 # Personal _Spotify_ data analysis  
 ## Done __November 2023__  
+___
 This is my first big data analysis personal project. I tried coding it in such a way so anybody can download this repo and with some changes, hopefully run the notebook himself.
 # __Files description:__  
 - `spotipy_credentials.py`: here I was storing my keys and url obtained on [Spotify for Developers](https://developer.spotify.com) website. If you want to run this project, create Developer account on Spotify and paste your credentials there
@@ -14,6 +15,19 @@ This is my first big data analysis personal project. I tried coding it in such a
 I want my prorfolio to be personal, so this time I decided on analyzing my own __Liked Songs__ Spotify playlist, since I tend to add there all the songs I acutally like.  
 # __Goals__  
 My goal was simply to explore my main playlist and get better understanding of my music taste in general.
-# __Visuals__  
-  
 # __Conclusions__
+
+# __Visuals__  
+## Whole account Mini-Spotify Wrapped  
+![](readme_images/wrapped_artists.png)  
+![](readme_images/wrapped_trakcs.png)  
+## Genres and artists on my playlist  
+![](readme_images/most_popular_genres.png)  
+![](readme_images/most_popular_artists.png)  
+## Tracks features  
+![](readme_images/features_dist.png) 
+![](readme_images/corr_heatmap.png) 
+## PCA scatterplot  
+![](readme_images/pca.png) 
+## Artists connections graph on my playlist  
+![](readme_images/graph2.png) 
