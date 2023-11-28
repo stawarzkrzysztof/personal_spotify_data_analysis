@@ -23,7 +23,8 @@ My goal was simply to explore my main playlist and get better understanding of m
 - using Python list and dict comprehensions better  
 - filtering Pandas DataFrames  
 - creating and plotting simple graphs with `networkx`
-- comparing datasets with `cosine similarity`
+- comparing datasets with `cosine similarity`  
+![Look at this graph](https://media.tenor.com/F-LgB1xTebEAAAAd/look-at-this-graph-nickelback.gif)  
 # __Conclusions__
 On my playlist are mostly polish hip-hop tracks with some EDM. Most of my favourite artists either rappers or DJ's/producers. Average song on my playlist is rougly 3 minutes long, is rather `danceable`, has vocals with fast tempo (avg. 136 BPM). __Lil Darkie__ has two really loud tracks (__BIG WAR__ and __GENOCIDE__) and the longes one (__GENOCIDE__ lasts above 10 minutes). __Moli - z ust__ is the fastest track with almost 200 BMP, but it might be a bug, I don't find this track fast. Over all default `spotipy` song features aren't very insightful when comparing or classifying songs. They might be used in human-eye analysis. Probably a better way of comparing songs is by using lyrics NLP (I might do something like that one day). In my case, the only two correlated features are `energy` and `loudness` (r=.71). With the PCA plot it's obvious that no particular feature determines genre or anything. I tried `Gaussian Naive Bayes Classifier` with mediocre average accuracy of 70%. With the help of the graphs, I can see __Aleshen__, __Pako__ and __Jony__ have a lot of tracks together on my playlist, same for __Szymi Szyms__ with __Osaka__ and __Baba Hassan__ with __Pusher__. I don't believe songs reccomendation based on those features is useful tho. Seem's kinda random to me at the end of the day.  
 
