@@ -1,5 +1,5 @@
 # Personal _Spotify_ data analysis  
-## Done __November 2023__  
+## Done: __November 2023__  
 ___
 This is my first big data analysis personal project. I tried coding it in such a way so anybody can download this repo and with some changes, hopefully run the notebook himself.
 # __Files description:__  
@@ -14,9 +14,18 @@ This is my first big data analysis personal project. I tried coding it in such a
 # __About__  
 I want my prorfolio to be personal, so this time I decided on analyzing my own __Liked Songs__ Spotify playlist, since I tend to add there all the songs I acutally like.  
 # __Goals__  
-My goal was simply to explore my main playlist and get better understanding of my music taste in general.
+My goal was simply to explore my main playlist and get better understanding of my music taste in general. I also wanted to check if `spotipy` features are any useful in classification and recomendation.
+# __What I've learned__  
+- extracting data as dictionaries using API wrapper  
+- creating multiple subplots with `matplotlib` and `seaborn`  
+- using most common plot types  
+- scraping HTML tags with `BeautifulSoup`  
+- using Python list and dict comprehensions better  
+- filtering Pandas DataFrames  
+- creating and plotting simple graphs with `networkx`
+- comparing datasets with `cosine similarity`
 # __Conclusions__
-
+On my playlist are mostly polish hip-hop tracks with some EDM. Most of my favourite artists either rappers or DJ's/producers. Average song on my playlist is rougly 3 minutes long, is rather 'danceable', has vocals with fast tempo (avg. 136 BPM). `Lil Darkie` has two really loud tracks and the longes one (`GENOCIDE` is above 10 minutes). The default `spotipy` song features aren't very insightful when comparing or classifying songs. They might be used in human-eye analysis. Probably a better way of comparing songs is by using NLP on their lyrics. I might do something like that one day. In my case, the only features correlated with eachother are `energy` and `loudness` (r=.71). With the PCA plot it's obvious that no particular feature determines genre or anything.
 # __Visuals__  
 ## Whole account Mini-Spotify Wrapped  
 ![](readme_images/wrapped_artists.png)  
