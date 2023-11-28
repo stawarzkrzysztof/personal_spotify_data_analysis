@@ -1,0 +1,51 @@
+artists,track_name,genre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Mariah Carey,All I Want for Christmas Is You,dance pop,0.336,0.627,7,-7.463,1,0.0384,0.164,0.0,0.0708,0.35,150.273,241107,4
+Wham!,Last Christmas - Single Version,new romantic,0.733,0.598,2,-8.228,1,0.0278,0.212,3.71e-06,0.156,0.935,107.732,265960,4
+Tate McRae,greedy,alt z,0.75,0.733,6,-3.18,0,0.0319,0.256,0.0,0.114,0.844,111.018,131872,1
+Brenda Lee,Rockin' Around The Christmas Tree,adult standards,0.589,0.472,8,-8.749,1,0.0502,0.614,0.0,0.505,0.898,67.196,126267,4
+Mitski,My Love Mine All Mine,brooklyn indie,0.504,0.308,9,-14.958,1,0.0321,0.868,0.135,0.158,0.121,113.95,137773,4
+Bobby Helms,Jingle Bell Rock,,0.725,0.368,2,-10.657,1,0.0411,0.967,0.0,0.074,0.7,119.438,133407,4
+Jack Harlow,Lovin On Me,deep underground hip hop,0.943,0.558,2,-4.911,1,0.0568,0.0026,2.19e-06,0.0937,0.606,104.983,138411,4
+Taylor Swift,Cruel Summer,pop,0.552,0.702,9,-5.707,1,0.157,0.117,2.06e-05,0.105,0.564,169.994,178427,4
+iñigo quintero,Si No Estás,,0.537,0.421,5,-8.72,1,0.0285,0.827,0.0,0.138,0.524,98.224,184061,4
+Jung Kook,Standing Next to You,k-pop,0.711,0.809,2,-4.389,0,0.0955,0.0447,0.0,0.339,0.816,106.017,206020,4
+"Jung Kook, Latto",Seven (feat. Latto) (Explicit Ver.),k-pop,0.79,0.831,11,-4.185,1,0.044,0.312,0.0,0.0797,0.872,124.987,183551,4
+"Bad Bunny, Feid",PERRO NEGRO,reggaeton,0.911,0.778,5,-2.248,1,0.262,0.0887,2.16e-05,0.179,0.345,96.057,162768,4
+Doja Cat,Paint The Town Red,dance pop,0.864,0.556,2,-7.683,0,0.194,0.255,3.85e-06,0.112,0.726,99.974,230480,4
+"Fuerza Regida, Marshmello",HARLEY QUINN,corrido,0.815,0.741,1,-6.04,1,0.0569,0.0277,0.0183,0.219,0.591,125.031,143327,4
+Andy Williams,It's the Most Wonderful Time of the Year,adult standards,0.24,0.598,7,-8.435,1,0.0369,0.766,0.0,0.117,0.776,201.629,151933,3
+Michael Bublé,It's Beginning to Look a Lot like Christmas,adult standards,0.331,0.223,4,-11.274,1,0.0338,0.88,5.92e-06,0.343,0.355,92.896,207200,3
+Kenya Grace,Strangers,singer-songwriter pop,0.628,0.523,11,-8.307,0,0.0946,0.701,0.00274,0.219,0.416,169.982,172965,4
+"Calle 24, Chino Pacas, Fuerza Regida",Que Onda,corrido,0.808,0.944,10,-4.863,0,0.0408,0.183,1.11e-06,0.138,0.937,124.934,191467,3
+Ariana Grande,Santa Tell Me,pop,0.525,0.621,7,-7.364,1,0.116,0.0489,0.0,0.294,0.591,191.9,204093,4
+Dean Martin,Let It Snow! Let It Snow! Let It Snow!,adult standards,0.451,0.24,1,-14.014,1,0.0351,0.912,2.45e-06,0.175,0.701,134.009,117147,4
+"KAROL G, Peso Pluma",QLONA,reggaeton,0.841,0.738,7,-7.455,0,0.307,0.52,0.0,0.0892,0.484,169.918,172798,4
+Doja Cat,Agora Hills,dance pop,0.755,0.687,8,-6.247,0,0.101,0.183,0.000177,0.125,0.381,123.01,265360,4
+Bad Bunny,MONACO,reggaeton,0.787,0.621,4,-5.009,0,0.068,0.15,0.000402,0.58,0.13,139.056,267194,4
+Arctic Monkeys,I Wanna Be Yours,garage rock,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,183956,4
+Taylor Swift,Is It Over Now? (Taylor's Version) (From The Vault),pop,0.596,0.658,0,-7.346,1,0.036,0.0504,0.0,0.127,0.176,100.012,229478,4
+Sia,Snowman,australian dance,0.716,0.512,1,-6.257,1,0.0331,0.483,0.0,0.0928,0.326,104.957,165907,3
+"The Weeknd, JENNIE, Lily-Rose Depp","One Of The Girls (with JENNIE, Lily Rose Depp)",canadian contemporary r&b,0.522,0.641,8,-6.287,1,0.0318,0.0545,0.0,0.162,0.202,87.51,244685,4
+"Maluma, Carin Leon",Según Quién,latin pop,0.909,0.762,9,-3.974,1,0.0643,0.434,0.0,0.0856,0.843,101.987,142335,3
+Kelly Clarkson,Underneath the Tree,dance pop,0.509,0.812,8,-5.438,1,0.0537,0.0013,1.99e-05,0.214,0.689,159.876,229640,4
+Tyla,Water,,0.673,0.722,3,-3.495,0,0.0755,0.0856,0.0,0.137,0.519,117.187,200256,4
+Myke Towers,LALA,reggaeton,0.708,0.737,1,-4.045,1,0.0436,0.0739,0.00162,0.0955,0.607,91.986,197920,4
+Dua Lipa,Houdini,dance pop,0.744,0.789,9,-4.876,0,0.059,0.0036,0.00144,0.0947,0.866,116.985,185918,4
+Olivia Rodrigo,Can’t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes,pop,0.518,0.368,11,-7.76,0,0.0353,0.855,4.9e-06,0.119,0.234,141.934,205484,4
+Michael Bublé,Holly Jolly Christmas,adult standards,0.609,0.427,0,-8.639,1,0.0417,0.857,0.0,0.0898,0.741,151.433,121527,4
+José Feliciano,Feliz Navidad,latin pop,0.514,0.818,2,-9.642,1,0.0451,0.406,1.93e-06,0.299,0.967,148.733,182307,4
+"Jung Kook, Jack Harlow",3D (feat. Jack Harlow),k-pop,0.853,0.824,1,-3.287,1,0.103,0.0322,0.0,0.0859,0.888,108.044,201812,4
+Olivia Rodrigo,vampire,pop,0.511,0.532,5,-5.745,1,0.0578,0.177,0.0,0.291,0.35,138.005,219724,4
+Harry Styles,As It Was,pop,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,167303,4
+Lord Huron,The Night We Met,indie folk,0.544,0.369,2,-9.514,1,0.038,0.969,0.279,0.639,0.102,87.01,208212,3
+SZA,Kill Bill,pop,0.644,0.735,8,-5.747,1,0.0391,0.0521,0.144,0.161,0.418,88.98,153947,4
+"Peso Pluma, Gabito Ballesteros, Junior H",LADY GAGA,corridos tumbados,0.646,0.736,5,-7.118,0,0.0449,0.216,0.0,0.415,0.873,140.098,212878,3
+Noah Kahan,Stick Season,pov: indie,0.662,0.488,9,-6.894,1,0.0682,0.782,0.0,0.102,0.817,117.913,182347,4
+David Kushner,Daylight,gen z singer-songwriter,0.508,0.43,2,-9.475,0,0.0335,0.83,0.000441,0.093,0.324,130.09,212954,4
+"The Weeknd, Daft Punk",Starboy,canadian contemporary r&b,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,230453,4
+The Ronettes,Sleigh Ride,brill building pop,0.529,0.772,2,-7.013,1,0.0287,0.403,2.21e-06,0.316,0.853,91.751,181267,4
+Justin Bieber,Mistletoe,canadian pop,0.657,0.56,6,-9.049,0,0.0467,0.498,0.0,0.0794,0.854,161.993,182947,4
+V,Love Me Again,j-division,0.633,0.607,0,-6.182,0,0.0532,0.183,1.38e-06,0.167,0.363,74.029,182293,4
+Dua Lipa,Dance The Night - From Barbie The Album,dance pop,0.671,0.845,11,-4.93,0,0.048,0.0207,0.0,0.329,0.775,110.056,176579,4
+Quevedo,Columbia,rap canario,0.668,0.712,5,-5.927,1,0.0381,0.369,2.13e-05,0.108,0.264,100.02,186000,4
+"cassö, RAYE, D-Block Europe",Prada,,0.638,0.717,8,-5.804,1,0.0375,0.001,1.79e-06,0.113,0.422,141.904,132359,4
