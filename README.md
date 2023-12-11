@@ -1,3 +1,4 @@
+![](readme_images/logo.png)  
 # Personal Spotify Data Analysis  
 ## Done: __November 2023__  
 ___
