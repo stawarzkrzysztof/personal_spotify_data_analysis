@@ -1,4 +1,4 @@
-# Personal _Spotify_ data analysis  
+# Personal Spotify Data Analysis  
 ## Done: __November 2023__  
 ___
 This is my first big data analysis personal project. I tried coding it in such a way so anybody can download this repo and with some changes, hopefully run the notebook himself.
