@@ -13,9 +13,9 @@ This is my first big data analysis personal project. I tried coding it in such a
 - `spotify_analysis_project.ipynb`: actual notebook with the whole analysis and visualizations.
 
 # __About__  
-I want my prorfolio to be personal, so this time I decided on analyzing my own __Liked Songs__ Spotify playlist, since I tend to add there all the songs I acutally like.  
+I want my portfolio to be personal, so this time I decided on analyzing my own __Liked Songs__ Spotify playlist, since I tend to add there all the songs I acutally like.  
 # __Goals__  
-My goal was simply to explore my main playlist and get better understanding of my music taste in general. I also wanted to check if `spotipy` features are any useful in classification and recomendation.
+My goal was simply to explore my main playlist and get better understanding of my music taste in general. I also wanted to check if `spotipy` features are any useful in classification and recommendation.
 # __What I've learned__  
 - extracting data as dictionaries using API wrapper  
 - creating multiple subplots with `matplotlib` and `seaborn`  
